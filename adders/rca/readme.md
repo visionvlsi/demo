@@ -19,3 +19,8 @@
 
    Chip area for module '\adder_4bit': 135.129600
    ```
+   
+   #### The following is synthesis report RCA
+   
+   ![image](https://github.com/visionvlsi/demo/assets/98731221/af53e6d0-3eb5-49da-aded-18a815b21d9e)
+
